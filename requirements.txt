@@ -12,3 +12,7 @@ aiohttp
 cfonts
 flask
 gunicorn
+Flask==2.3.3
+Werkzeug==2.3.7
+psutil==5.9.5
+humanize==4.7.0
